@@ -1,6 +1,5 @@
 {
     "cSpell.words": [
-        
         "adipiscing",
         "aliquam",
         "aliquet",
@@ -8,6 +7,7 @@
         "arcu",
         "at",
         "augue",
+        "beneficios",
         "condimentum",
         "congue",
         "consectetur",
@@ -47,6 +47,8 @@
         "sollicitudin",
         "udemy",
         "vitae"
-
+    ],
+    "cSpell.ignoreWords": [
+        "conteudos"
     ]
 }
